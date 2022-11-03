@@ -11,7 +11,7 @@ Esse projeto consiste em uma página com efeito parallax feito no CSS. Essa pág
 
 
 ## Layout web
-![Web 1]()https://github.com/ph-santos/projeto-cordel/blob/main/imagens/img-pc.png
+![Web 1](https://github.com/ph-santos/projeto-cordel/blob/main/imagens/img-pc.png)
 
 
 # Tecnologias utilizadas
