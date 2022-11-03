@@ -4,7 +4,7 @@
 # Sobre o projeto
 
 ## Link do projeto: https://ph-santos.github.io/projeto-cordel/
-Esse projeto consiste em uma página com efeito parallax feito no CSS. Essa página traz como conteúdo o Cordel Moderno de Milton Duarte.
+Esse projeto consiste em uma página com efeito parallax feito com CSS. Essa página traz como conteúdo o Cordel Moderno de Milton Duarte.
 
 ## Layout mobile
 ![Mobile 1](https://github.com/ph-santos/projeto-cordel/blob/main/imagens/img-phone.png)
